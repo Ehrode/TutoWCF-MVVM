@@ -1,0 +1,13 @@
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\bin\Debug\TutoWCFMVVM.exe.config
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\bin\Debug\TutoWCFMVVM.exe
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\bin\Debug\TutoWCFMVVM.pdb
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\bin\Debug\MetroFramework.dll
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\obj\Debug\TutoWCFMVVM.CalculatorForm.resources
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\obj\Debug\TutoWCFMVVM.Properties.Resources.resources
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\obj\Debug\TutoWCFMVVM.csproj.GenerateResource.cache
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\obj\Debug\TutoWCFMVVM.csproj.CoreCompileInputs.cache
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\obj\Debug\TutoWCFMVVM.csproj.CopyComplete
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\obj\Debug\TutoWCFMVVM.exe
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\obj\Debug\TutoWCFMVVM.pdb
+C:\Users\j.lenormand\source\repos\TutoWCFMVVM\TutoWCFMVVM\obj\Debug\TutoWCFMVVM.csprojAssemblyReference.cache
